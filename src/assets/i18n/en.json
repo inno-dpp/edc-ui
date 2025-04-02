@@ -476,5 +476,6 @@
   "transfer_history_page.no_trans": "No transfer history found.",
   "transfer_history_page.page": "Transfer History Page",
   "transfer_history_page.subtitle": "Transfer History Details",
-  "transfer_history_page.title": "Transfer History"
+  "transfer_history_page.title": "Transfer History",
+  "spip.title": "Test SPIP"
 }

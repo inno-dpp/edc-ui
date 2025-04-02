@@ -29,6 +29,11 @@ export class NavItemsBuilder {
           icon: 'assignment',
           title: 'transfer_history_page.title',
         },
+        {
+          path: 'transfer-history',
+          icon: 'assignment',
+          title: 'spip.title',
+        },
       ],
     },
     {
